@@ -12,3 +12,6 @@ Padel-specific collection of datasets targeted to train and test computer vision
 
 For more details, see the paper "PadelVic: A Multimodal Dataset of an Amateur Padel Match", by Mohammadreza Javadiha, Carlos Andujar, Michele Calvanese, Enrique Lacasa,
 Jordi Moyés, Jose Luis Ponton, Antonio Susín and Jiabo Wang. I Congreso Nacional de Padel, Cáceres, 15-16 sep 2023. 
+
+## Licence
+This dataset can be used only for research purposes. More details on the CC-BY-like license coming soon. 
