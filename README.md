@@ -14,7 +14,7 @@ Padel-specific collection of datasets targeted to train and test computer vision
 | Dataset    | Source              | Format | Link |
 |------------|---------------------|--------|------|
 | Player positions        | Panasonic AG-UX180 4K | XLSX    | [Sample, 423 KB](https://www.dropbox.com/scl/fi/3yo9y12h2p71syxul1u7d/Panasonic_labeling.xlsx?rlkey=lk0psr7kap2qoy3d3kw8gcvba&dl=0) |
-| Player poses        | Panasonic AG-UX180 4K | JSON    | [Sample, 74 MB](https://www.dropbox.com/scl/fi/sl5hdlr6bal69v2acdbei/bvh.zip?rlkey=13ttllqg65ayoujhozpy75yzd&dl=0) |
+| Player poses        | Panasonic AG-UX180 4K | JSON    | [Sample, 74 MB](https://www.dropbox.com/scl/fi/tkbeu8ndxl4axy9iijcwt/Panasonic_Poses.zip?rlkey=q9c60m5ln85nrihum1tlq4q53&dl=0) |
 | Rendered video | Xsens MVN Awinda      | MP4 | [Sample, 29 MB](https://www.dropbox.com/scl/fi/clsjqiwvby6w8byv9g0ap/1630-16300.mp4?rlkey=aqecxe72tasojmoqi721l6mdv&dl=0) |
 
 ## How to cite
