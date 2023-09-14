@@ -7,8 +7,8 @@ Padel-specific collection of datasets targeted to train and test computer vision
 | Main camera        | 6 m    | Panasonic AG-UX180 4K | 3840x2160 | 50  | MP4    | [3626x1960 version, 5.2 GB](https://www.dropbox.com/scl/fi/hrzytt71wc92zaq8oq0fh/panasonic_final.mp4?rlkey=vhj3rp9xbmxhemmx24bkfnu55&dl=0) |
 | Second camera      | 7.5 m  | GoPro Hero9 Black     | 3840x2160 | 60  | MP4    | [2806x1870 version, 5.2 GB](https://www.dropbox.com/scl/fi/pnzk74zghdxtybd9zb62a/gopro.mp4?rlkey=k3agl6p3ntigncx0dbu0jwu2e&dl=0) |
 | Court level 1      | 1.45 m | Samsung Galaxy S22+  | 1920x1080 | 60  | MP4    | [1920x1080 version, 3.2 GB](https://www.dropbox.com/s/hn9ub1qmjurcf5b/samsung.mp4?dl=0)|
-| Court level 2      | 1.45 m | iPhone 13 Pro Max    | 1920x1080 | 60  | MOV    | |
-| Motion Capture     | N/A    | Xsens MVN Awinda      | N/A       | 60  | BVH| [183 MB](https://www.dropbox.com/scl/fi/sl5hdlr6bal69v2acdbei/bvh.zip?rlkey=13ttllqg65ayoujhozpy75yzd&dl=0)|
+| Court level 2      | 1.45 m | iPhone 13 Pro Max    | 1920x1080 | 60  | MOV    | [1920x1080 version, 3.2 GB](https://www.dropbox.com/scl/fi/6n7ahs5az28sos3pws7dg/iphone.mp4?rlkey=vn6hfwoz84k60w5ug1nyo2uiz&dl=0)|
+| Motion Capture     | N/A    | Xsens MVN Awinda      | N/A       | 60  | BVH| [One player, all games, 183 MB](https://www.dropbox.com/scl/fi/sl5hdlr6bal69v2acdbei/bvh.zip?rlkey=13ttllqg65ayoujhozpy75yzd&dl=0)|
 
 ## Derived datasets
 | Dataset    | Source              | Format | Link |
