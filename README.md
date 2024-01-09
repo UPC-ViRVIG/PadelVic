@@ -15,7 +15,7 @@ Padel-specific collection of datasets targeted to train and test computer vision
 |------------|---------------------|--------|------|
 | No court | Xsens MVN Awinda      | MP4 | [Sample, 29 MB](https://www.dropbox.com/scl/fi/clsjqiwvby6w8byv9g0ap/1630-16300.mp4?rlkey=aqecxe72tasojmoqi721l6mdv&dl=0) |
 | Court, ground truth position | Xsens MVN Awinda | MKV | [Sample, 9 MB](https://www.dropbox.com/scl/fi/lv1itp4vpnwywudwe6t6b/001-2200-3960.mkv?rlkey=fm1544hw7gwzzcw8ly9ulfyku&dl=0) |     
-| Court | Xsens MVN Awinda | MKV | [Two rallies, 88 MB]([https://www.dropbox.com/scl/fi/lv1itp4vpnwywudwe6t6b/001-2200-3960.mkv?rlkey=fm1544hw7gwzzcw8ly9ulfyku&dl=0](https://www.dropbox.com/scl/fi/hhw2ag7nfligagrgu01nm/001-1250-17462.mkv?rlkey=9pcmp205da9ifanqxr1uc99ox&dl=0)) [CSV with GT positions](https://www.dropbox.com/scl/fi/84pppfrg8h263q91wr9vv/001-1250-17462.csv?rlkey=48cs2qs15cdq7pt28qzxfkfjt&dl=0)|     
+| Court | Xsens MVN Awinda | MKV | [Two rallies, 88 MB](https://www.dropbox.com/scl/fi/hhw2ag7nfligagrgu01nm/001-1250-17462.mkv?rlkey=9pcmp205da9ifanqxr1uc99ox&dl=0) [CSV with GT positions](https://www.dropbox.com/scl/fi/84pppfrg8h263q91wr9vv/001-1250-17462.csv?rlkey=48cs2qs15cdq7pt28qzxfkfjt&dl=0)|     
 
 ## Derived data (human detection and pose estimation from video)
 | Dataset    | Source              | Format | Link |
