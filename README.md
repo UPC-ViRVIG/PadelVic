@@ -23,8 +23,11 @@ Padel-specific collection of datasets targeted to train and test computer vision
 ## Derived data (human detection and pose estimation from video)
 | Dataset    | Source              | Format | Link |
 |------------|---------------------|--------|------|
+| Player tracking results | Panasonic AG-UX180 4K | MP4    | [Sample, Game 2, 16MB](https://www.dropbox.com/scl/fi/oelg2ildoat14ttf4asv0/game2_vic_panasonic.mp4?rlkey=snv6msx10usvaq6nnl47v4cij&dl=0) |
 | Player positions        | Panasonic AG-UX180 4K | XLSX    | [Sample, 423 KB](https://www.dropbox.com/scl/fi/3yo9y12h2p71syxul1u7d/Panasonic_labeling.xlsx?rlkey=lk0psr7kap2qoy3d3kw8gcvba&dl=0) |
 | Player poses        | Panasonic AG-UX180 4K | JSON    | [Sample, 74 MB](https://www.dropbox.com/scl/fi/tkbeu8ndxl4axy9iijcwt/Panasonic_Poses.zip?rlkey=q9c60m5ln85nrihum1tlq4q53&dl=0) |
+
+
 
 > [!NOTE]
 > The player positions and player poses datasets above are just a sample, computed with a work-in-progress, non-robust player tracking method.  
