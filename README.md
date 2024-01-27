@@ -33,8 +33,10 @@ Padel-specific collection of datasets targeted to train and test computer vision
 > The player positions and player poses datasets above are just a sample, computed with a work-in-progress, non-robust player tracking method.  
 
 ## How to cite
-"PadelVic: A Multimodal Dataset of an Amateur Padel Match", by Mohammadreza Javadiha, Carlos Andujar, Michele Calvanese, Enrique Lacasa,
-Jordi Moyés, Jose Luis Ponton, Antonio Susín and Jiabo Wang. I Congreso Nacional de Padel, Cáceres, 15-16 sep 2023. 
+"PADELVIC: Multicamera videos and motion capture data of an amateur padel match", by Mohammadreza Javadiha, Carlos Andujar, Michele Calvanese, Enrique Lacasa,
+Jordi Moyés, Jose Luis Ponton, Antonio Susín and Jiabo Wang. 
+Padel Scientific Journal 2 (1), 89-106, 2024. 
+[DOI 10.17398/2952-2218.2.89](https://doi.org/10.17398/2952-2218.2.89)
 
 ## Licence
 This dataset can be used only for research purposes. More details on the CC-BY-like license coming soon. 
